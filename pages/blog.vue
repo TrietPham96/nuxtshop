@@ -9,7 +9,7 @@
               max-width="400"
               outlined
               tile
-              href="/post"
+              to="/post"
             >
               <v-img
                 class="white--text align-end"
@@ -44,7 +44,7 @@
               max-width="400"
               outlined
               tile
-              href="/post"
+              to="/post"
             >
               <v-img
                 class="white--text align-end"
@@ -79,7 +79,7 @@
               max-width="400"
               outlined
               tile
-              href="/post"
+              to="/post"
             >
               <v-img
                 class="white--text align-end"
