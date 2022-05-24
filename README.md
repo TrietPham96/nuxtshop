@@ -4,6 +4,10 @@ E-Commerce website template - Nuxt + Vuetify
 
 Nuxtshop - Another version of Shipit. I have some layout customizations and migrated to NuxtJS. Using NuxtJS will be better for SEO, while also taking advantage of the power of this amazing framework.
 
+![image](https://user-images.githubusercontent.com/29618357/170102312-8e959a58-33ba-4809-9fdc-ade085ea614d.png)
+
+![image](https://user-images.githubusercontent.com/29618357/170102477-678870bd-8aa2-46d2-abe7-aa74bb247c65.png)
+
 ## Live Demo
 
 https://nuxtshopp.vercel.app/
